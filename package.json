@@ -1,6 +1,6 @@
 {
   "name": "@nikita_lee_lars/analytics-shared",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shared types for analytics system",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
